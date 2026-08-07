@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### brute force
 
