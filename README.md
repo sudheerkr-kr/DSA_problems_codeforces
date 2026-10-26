@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 4 |
+| 9 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -28,6 +29,7 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 
 ### brute force
 
@@ -40,6 +42,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### strings
 
