@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 9 |
+| 16 | 10 |
 
 ---
 
@@ -15,11 +15,12 @@
 - [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (1)
-- [math](#math) (3)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
+- [math](#math) (4)
+- [number theory](#number-theory) (2)
+- [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
 ---
@@ -50,6 +51,12 @@
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -69,6 +76,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
@@ -76,12 +84,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
