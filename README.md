@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 11 |
+| 20 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (9)
+- [Uncategorized](#uncategorized) (10)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
@@ -39,6 +39,7 @@
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 | 2288A | [Youmu Konpaku and the Duel](https://codeforces.com/contest/2288/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2288/A%20-%20Youmu%20Konpaku%20and%20the%20Duel/solution.cpp) |
+| 2288B1 | [Yukari Yakumo and the Boundary Stones (Easy Version)](https://codeforces.com/contest/2288/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2288/B1%20-%20Yukari%20Yakumo%20and%20the%20Boundary%20Stones%20(Easy%20Version)/solution.cpp) |
 
 ### brute force
 
