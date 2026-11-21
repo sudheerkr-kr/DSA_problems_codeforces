@@ -6,22 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 10 |
+| 19 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (2)
 - [math](#math) (4)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -37,6 +38,7 @@
 | 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
+| 2288A | [Youmu Konpaku and the Duel](https://codeforces.com/contest/2288/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2288/A%20-%20Youmu%20Konpaku%20and%20the%20Duel/solution.cpp) |
 
 ### brute force
 
@@ -52,6 +54,12 @@
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -65,12 +73,14 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### math
 
@@ -101,6 +111,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/sudheerkr-kr/DSA_problems_codeforces/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ---
 
